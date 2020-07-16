@@ -1,0 +1,7 @@
+/* { loader: 'css-loader', options: { importLoaders: 1 } }  */
+@import './flex.css';
+
+.hello {
+    color: red;
+    background: url('./icon.png');
+  }
